@@ -1,9 +1,11 @@
-# Featured Code Repositories
-> Discover how NICFI basemaps are being used and implemented through these code repositories and resource materials.
+# NICFI Satellite Data Program user community code repositories
+> Discover how the data products made available through the Program are being used through these examples of code repositories and resource materials.<br>
 
-Explore the outstanding work of authors who have harnessed the power of the NICFI Satellite Data Program in their distinctive use cases. Delve into their repositories to examine practical implementations that show the power of using high-resolution imagery in the tropics.
+Explore the work of authors who have harnessed the power of the NICFI Satellite Data Program in their specific use cases. Delve into their repositories to examine practical implementations that show the power of using high-resolution imagery in the tropics.<br>
 
-| Repository            | Description                    | Link                                       |
+Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by emailing nicfi-servicedesk@ksat.no.<br><br>
+
+| Repository            | Author                    | Resource                                       |
 |-----------------------|--------------------------------|--------------------------------------------|
 | AutoSR-RS_SENT-NICFI    | [JuliaWasala](https://github.com/JuliaWasala) | [GitHub Repo](https://github.com/JuliaWasala/autoSR-RS_SENT-NICFI) |
 | Package to download Planet Scope images (4.77 m res)        | [klauswiese](https://github.com/klauswiese)  | [GitHub Repo](https://github.com/klauswiese/Planet) |
@@ -14,11 +16,9 @@ Explore the outstanding work of authors who have harnessed the power of the NICF
 | Access and mosaic Planet NICFI monthly basemaps              | Tensorflow | [Jupiter Notebook](http://devseed.com/tensorflow-eo-training/docs/Lesson2a_get_planet_NICFI.html) |
 | CTrees: Activity Data with PlanetScope NICFI @GCF task force training              | [Ricardo Dalagnol](rdalagnol@ctrees.org)  | [Earth Engine App](https://silvardd.users.earthengine.app/view/forest-degradation) |
 
-
-Feel free to explore, engage, and contribute to this repository.
-
 ## Acknowledgements
-We extend our sincere gratitude to the authors for their invaluable contributions. 
-
+We extend our sincere gratitude to the authors for their invaluable contributions.<br>
 ## Contact Information
-For inquiries and support, please visit our website [NICFI Satellite Data Program](https://university.planet.com/page/nicfi). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://university.planet.com/page/nicfi). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+
+
