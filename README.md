@@ -15,6 +15,10 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 | Metodología para la clasificación de imágenes utilizanso sensores opticos y RADAR para la identificación de PINABETE              | [Danger Gómez, Ana Patricia Cano, Instituto Nacional de Bosques INAB - Guatemala](https://www.inab.gob.gt/index.php/contacto)  | [GEE Repo](https://code.earthengine.google.com/0f31dc57282460b3713b0e9f8e91f825?accept_repo=users%2Femaprlab%2Fpublic) |
 | Access and mosaic Planet NICFI monthly basemaps              | Tensorflow | [Jupiter Notebook](http://devseed.com/tensorflow-eo-training/docs/Lesson2a_get_planet_NICFI.html) |
 | CTrees: Activity Data with PlanetScope NICFI @GCF task force training              | [Ricardo Dalagnol](rdalagnol@ctrees.org)  | [Earth Engine App](https://silvardd.users.earthengine.app/view/forest-degradation) |
+| NICFI-PlanetScope-data              | [Hercilo](https://github.com/Hercilo)  | [GitHub Repo](https://github.com/Hercilo/NICFI-PlanetScope-data) |
+| planet-nicfi              | [TomAugspurger](https://github.com/Hercilo)  | [GitHub Repo](https://github.com/TomAugspurger) |
+| hrlcm              | [Lei Song, PhD](https://github.com/LLeiSong)  | [GitHub Repo](https://github.com/LLeiSong/hrlcm) |
+| Attention-U-Net-4-landuse-mapping-Ethiopia              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.<br>
