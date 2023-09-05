@@ -19,6 +19,7 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 | planet-nicfi              | [TomAugspurger](https://github.com/Hercilo)  | [GitHub Repo](https://github.com/TomAugspurger) |
 | hrlcm: Land cover classification in Tanzania using ensemble labels and high resolution Planet NICFI basemaps and Sentinel-1 time series.              | [Lei Song, PhD](https://github.com/LLeiSong)  | [GitHub Repo](https://github.com/LLeiSong/hrlcm) |
 | Attention-U-Net-4-landuse-mapping-Ethiopia: Mapping of land use following deforestation in Ethiopia using attention U-Net and Planet-NICFI images              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |
+| GEE_notebook_Forestry              | [M Iqbal Firdaus](https://github.com/miqbalf)  | [GitHub Repo](https://github.com/miqbalf/GEE_notebook_Forestry) |
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.<br>
