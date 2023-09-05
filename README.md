@@ -19,6 +19,6 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.<br>
 ## Contact Information
-To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://university.planet.com/page/nicfi). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://www.planet.com/nicfi/). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
 
 
