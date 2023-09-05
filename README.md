@@ -17,8 +17,8 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 | CTrees: Activity Data with PlanetScope NICFI @GCF task force training              | [Ricardo Dalagnol](rdalagnol@ctrees.org)  | [Earth Engine App](https://silvardd.users.earthengine.app/view/forest-degradation) |
 | NICFI-PlanetScope-data              | [Hercilo](https://github.com/Hercilo)  | [GitHub Repo](https://github.com/Hercilo/NICFI-PlanetScope-data) |
 | planet-nicfi              | [TomAugspurger](https://github.com/Hercilo)  | [GitHub Repo](https://github.com/TomAugspurger) |
-| hrlcm              | [Lei Song, PhD](https://github.com/LLeiSong)  | [GitHub Repo](https://github.com/LLeiSong/hrlcm) |
-| Attention-U-Net-4-landuse-mapping-Ethiopia              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |
+| hrlcm: Land cover classification in Tanzania using ensemble labels and high resolution Planet NICFI basemaps and Sentinel-1 time series.              | [Lei Song, PhD](https://github.com/LLeiSong)  | [GitHub Repo](https://github.com/LLeiSong/hrlcm) |
+| Attention-U-Net-4-landuse-mapping-Ethiopia: Mapping of land use following deforestation in Ethiopia using attention U-Net and Planet-NICFI images              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |
 
 ## Acknowledgements
 We extend our sincere gratitude to the authors for their invaluable contributions.<br>
