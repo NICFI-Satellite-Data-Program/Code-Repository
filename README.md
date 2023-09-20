@@ -4,7 +4,7 @@
 Explore the work of authors who have harnessed the power of the NICFI Satellite Data Program in their specific use cases. Delve into their repositories to examine practical implementations that show the power of using high-resolution imagery in the tropics.<br>
 
 ## Contributing
-This resource is the result of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution." or create a discussion with a brief description of the code its link.
+This resource is the result of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by creating a discussion in the repository or emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution".
 
 ## Contact Information
 To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://www.planet.com/nicfi/). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
