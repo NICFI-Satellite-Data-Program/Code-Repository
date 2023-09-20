@@ -4,7 +4,13 @@
 Explore the work of authors who have harnessed the power of the NICFI Satellite Data Program in their specific use cases. Delve into their repositories to examine practical implementations that show the power of using high-resolution imagery in the tropics.<br>
 
 ## Contributing
-Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution." or create a discussion with a brief description of the code its link.
+This resource is the result of an ongoing effort and we welcome your input, updates and corrections. Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by emailing nicfi-servicedesk@ksat.no with subject "NICFI Satellite Data Program - code contribution." or create a discussion with a brief description of the code its link.
+
+## Contact Information
+To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://www.planet.com/nicfi/). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+
+## Acknowledgements
+We extend our sincere gratitude to the authors for their invaluable contributions.<br>
 
 ## Repositories
 
@@ -24,7 +30,4 @@ Feel free to explore, engage, and contribute to this repository by sharing your 
 | Attention-U-Net-4-landuse-mapping-Ethiopia: Mapping of land use following deforestation in Ethiopia using attention U-Net and Planet-NICFI images              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |  U-Net model is used to map land use following deforestation in Ethiopia using Planet-NICFI images.
 | GEE_notebook_Forestry              | [M Iqbal Firdaus](https://github.com/miqbalf)  | [GitHub Repo](https://github.com/miqbalf/GEE_notebook_Forestry) | GEE Python API notebook.
 
-## Acknowledgements
-We extend our sincere gratitude to the authors for their invaluable contributions.<br>
-## Contact Information
-To sign up to the Program, inquiries and support, please visit [NICFI Satellite Data Program](https://www.planet.com/nicfi/). You can also join our [Planet Community](https://community.planet.com/nicfi-satellite-data-program-38) for discussions and updates.
+
