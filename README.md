@@ -29,5 +29,6 @@ We extend our sincere gratitude to the authors for their invaluable contribution
 | hrlcm: Land cover classification in Tanzania using ensemble labels and high resolution Planet NICFI basemaps and Sentinel-1 time series.              | [Lei Song, PhD](https://github.com/LLeiSong)  | [GitHub Repo](https://github.com/LLeiSong/hrlcm) | Repository for land cover classification using NICFI basemaps.
 | Attention-U-Net-4-landuse-mapping-Ethiopia: Mapping of land use following deforestation in Ethiopia using attention U-Net and Planet-NICFI images              | [Robert Masolele](https://github.com/masolele)  | [GitHub Repo](https://github.com/masolele/Attention-U-Net-4-landuse-mapping-Ethiopia) |  U-Net model is used to map land use following deforestation in Ethiopia using Planet-NICFI images.
 | GEE_notebook_Forestry              | [M Iqbal Firdaus](https://github.com/miqbalf)  | [GitHub Repo](https://github.com/miqbalf/GEE_notebook_Forestry) | GEE Python API notebook.
-
+| geemap              | [Qiusheng Wu](https://dot.cards/giswqs)  | [GitHub Repo](https://geemap.org/) | Python package for  mapping with Google Earth Engine.
+| k-textures, a self-supervised hard clustering deep learning algorithm for satellite image segmentation            | [Fabien Wagner](https://twitter.com/FabienWagner)  | [Zenodo Repo](https://zenodo.org/records/6359859) | R code to segment Planet NICFI images with DeepLearning equivalent of K-means available on Zenodo
 
