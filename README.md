@@ -31,4 +31,6 @@ We extend our sincere gratitude to the authors for their invaluable contribution
 | GEE_notebook_Forestry              | [M Iqbal Firdaus](https://github.com/miqbalf)  | [GitHub Repo](https://github.com/miqbalf/GEE_notebook_Forestry) | GEE Python API notebook.
 | geemap              | [Qiusheng Wu](https://dot.cards/giswqs)  | [GitHub Repo](https://geemap.org/) | Python package for  mapping with Google Earth Engine.
 | k-textures, a self-supervised hard clustering deep learning algorithm for satellite image segmentation            | [Fabien Wagner](https://twitter.com/FabienWagner)  | [Zenodo Repo](https://zenodo.org/records/6359859) | R code to segment Planet NICFI images with DeepLearning equivalent of K-means available on Zenodo
+| Working with Tropical Forest Imagery            | [Mapbox](https://labs.mapbox.com/education/nicfi-templates/r)  | [Mapbox education page](hhttps://www.mapbox.com/community/education) | Templates and step-by-step instructions for how to use imagery from Norway’s International Climate & Forests Initiative (NICFI) in custom web maps built with Mapbox GL JS.
+| Mapbox Impact Tools  - NICFI templates         | [Mapbox](https://github.com/mapbox/impact-tools/tree/master/nicfi-templates)  | [GitHub Repo](https://github.com/mapbox) | NICFI templates
 
